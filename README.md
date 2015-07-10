@@ -1,5 +1,5 @@
 # LaunchBar-Plugins
-<p>All Of my Plug-ins for Launch Bar 6.x</p>
+<p>All Of my Plug-ins for <a href="https://www.obdev.at/products/launchbar/index.html">Launch Bar 6.x or later</a></p>
 
 <h3>Google translator: detected language to Persian.</h3>
 
@@ -7,7 +7,6 @@
 <p><b>Require:</b>
 <ul>
   <li><a href="https://pypi.python.org/pypi/goslate">goslate python library</a></li>
-  <li><a href="https://www.obdev.at/products/launchbar/index.html">Launch Bar 6.x or later</a></li>
 </ul>  
 </p>
 <code>sudo pip install goslate</code>
