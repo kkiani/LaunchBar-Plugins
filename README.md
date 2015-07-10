@@ -21,5 +21,14 @@
 </p>
 <br><br>
 
-<h3>Git Hub Search</h3>
+<h3>Search GitHub</h3>
 <p>Search git hub as google action</p>
+<br><br>
+
+<h3>Search StackOverFlow</h3>
+<p>Search <a href="http://stackoverflow.com">Stack Over Flow</a> as google action</p>
+
+<br><br>
+
+<h3>WIFI Toggle</h3>
+<p>Switch ON/OFF wifi</p>
