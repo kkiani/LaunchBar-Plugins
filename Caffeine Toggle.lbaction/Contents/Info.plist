@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>Caffeine.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kiarash.LaunchBar.action.coffeine</string>
+	<key>CFBundleName</key>
+	<string>Caffeine Toggle</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.lightheadsw.caffeine</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Kiarash Kiani</string>
+		<key>LBEmail</key>
+		<string>kiarash.kiani.h@gmail.com</string>
+		<key>LBRequirements</key>
+		<string>Caffeine app</string>
+		<key>LBSummary</key>
+		<string>switch Caffeine.app on and off</string>
+		<key>LBTwitter</key>
+		<string>@kiarash_kiani</string>
+		<key>LBWebsite</key>
+		<string>http://kiarash.info</string>
+	</dict>
+	<key>LBRequirements</key>
+	<string>Caffeine app</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>2015</string>
+</dict>
+</plist>
