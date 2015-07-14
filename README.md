@@ -32,3 +32,7 @@
 
 <h3>WIFI Toggle</h3>
 <p>Switch ON/OFF wifi</p>
+<br><br>
+
+<h3>Make New Note</h3>
+<p>Simple plugin for adding new note to the secend folder. change the default folder go to Make New Note.lbaction/Contents/Scripts/default.scpt</p>
