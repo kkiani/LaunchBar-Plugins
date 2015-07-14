@@ -11,7 +11,7 @@
 </p>
 <code>sudo pip install goslate</code>
 <p><b>Language:</b> Python</p>
-<br><br>
+<br>
 
 <h3>Coffeine Toggle</h3>
 <p>plug-in for coffeine.app to toggle switch off or on</p
@@ -21,22 +21,22 @@
 </ul>  
 </p>
 <p><b>Language:</b> Python</p>
-<br><br>
+<br>
 
 <h3>Search GitHub</h3>
 <p>Search git hub as google action</p>
 <p><b>Language:</b> Python</p>
-<br><br>
+<br>
 
 <h3>Search StackOverFlow</h3>
 <p>Search <a href="http://stackoverflow.com">Stack Over Flow</a> as google action</p>
 <p><b>Language:</b> Python</p>
-<br><br>
+<br>
 
 <h3>WIFI Toggle</h3>
 <p>Switch ON/OFF wifi</p>
 <p><b>Language:</b> Python</p>
-<br><br>
+<br>
 
 <h3>Make New Note</h3>
 <p>Simple plugin for adding new note to the secend folder. change the default folder go to Make New Note.lbaction/Contents/Scripts/default.scpt</p>
