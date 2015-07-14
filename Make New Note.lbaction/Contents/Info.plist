@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>com.apple.Notes</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kiarash.LaunchBar.action.NewNote</string>
+	<key>CFBundleName</key>
+	<string>Make New Note</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Kiarash Kiani</string>
+		<key>LBEmail</key>
+		<string>kiarash.kiani.h@gmail.com</string>
+		<key>LBSummary</key>
+		<string>make note to notes.app</string>
+		<key>LBTwitter</key>
+		<string>@kiarash_kiani</string>
+		<key>LBWebsite</key>
+		<string>http://kiarash.info</string>
+	</dict>
+	<key>LBRequiredApplication</key>
+	<string>com.apple.Notes</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBScriptName</key>
+			<string>default.scpt</string>
+		</dict>
+	</dict>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>2015</string>
+</dict>
+</plist>
