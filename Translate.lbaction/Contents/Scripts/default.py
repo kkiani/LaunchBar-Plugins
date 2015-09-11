@@ -24,14 +24,14 @@ items = []
 #     items.append(item)
 
 def translte():
-    gs = goslate.Goslate()
-    result = gs.translate(arguments, 'fa')
-    item = {}
-    item['title'] = result
-    item['subtitle'] = 'translating ' + arguments
-    item['icon'] = 'Marcus-Roberto-Google-Play-Google-Translate'
-    items.append(item)
-
+	gs = goslate.Goslate()
+	result = gs.translate(arguments, 'fa')
+	item = {}
+	item['title'] = result
+	item['subtitle'] = 'translating ' + arguments
+	item['icon'] = 'Marcus-Roberto-Google-Play-Google-Translate'
+	items.append(item)
+    
 translte()
 
 

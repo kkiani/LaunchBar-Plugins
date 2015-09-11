@@ -5,20 +5,34 @@
 	<key>CFBundleIconFile</key>
 	<string>Marcus-Roberto-Google-Play-Google-Translate.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.LaunchBar.action.Translate</string>
+	<string>com.kiarash.LaunchBarAction.Translatpr</string>
 	<key>CFBundleName</key>
 	<string>Translate</string>
+	<key>LBArgument</key>
+	<string>word or paragraph as text</string>
 	<key>LBDescription</key>
 	<dict>
+		<key>LBArgument</key>
+		<string>word or paragraph as text</string>
 		<key>LBAuthor</key>
-		<string></string>
+		<string>Kiarash Kiani</string>
 		<key>LBEmail</key>
-		<string></string>
+		<string>kiarash.kiani.h@gmail.com</string>
+		<key>LBRequirements</key>
+		<string>goslate python library</string>
+		<key>LBResult</key>
+		<string>text in persian</string>
+		<key>LBSummary</key>
+		<string>google translator to persian language</string>
 		<key>LBTwitter</key>
-		<string></string>
+		<string>@kiarash_kiani</string>
 		<key>LBWebsite</key>
-		<string></string>
+		<string>http://kiarash.info</string>
 	</dict>
+	<key>LBRequirements</key>
+	<string>goslate python library</string>
+	<key>LBResult</key>
+	<string>text in persian</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -58,5 +72,7 @@
 			<string>suggestions.py</string>
 		</dict>
 	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>2015</string>
 </dict>
 </plist>
