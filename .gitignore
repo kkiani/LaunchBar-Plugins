@@ -1,6 +1,8 @@
+.gitignore
 /Dictionary.Live.lbaction
 /VPNs.lbaction
 /VPN( PPTP ).lbaction
 /Search Dash.lbaction
 /Notes Navigator.lbaction
 /Dictionary.Live.lbaction
+/.DS_Store
