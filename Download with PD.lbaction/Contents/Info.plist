@@ -5,9 +5,9 @@
 	<key>CFBundleIconFile</key>
 	<string>icon_app_appl.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.yourcompany.LaunchBar.action.ProgressiveDownloaderDownload</string>
+	<string>com.yourcompany.LaunchBar.action.DownloadWithPD</string>
 	<key>CFBundleName</key>
-	<string>Progressive Downloader Download</string>
+	<string>Download with PD</string>
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
